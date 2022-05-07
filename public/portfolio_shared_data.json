@@ -1,11 +1,11 @@
 {
     "basic_info": {
       "name": "Jim Doyle",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Coffee Code Hike Repeat" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/JimD325",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Me.jpg"
     },
     "skills": {
       "icons": [

@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Jim Doyle. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welcome to my Portfolio",
+      "description": "👋 I'm Jim Doyle, a Marine Corps veteran and real human being. I'm currently working on leveling up in React, and I look forward to working with a team to make our impact on the world, one line of code at a time.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
